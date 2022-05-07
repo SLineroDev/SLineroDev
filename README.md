@@ -3,7 +3,7 @@
 My name is Sergio, Software developer and Tech passionate
 
 - 🔭 I’m currently working as a Software Development Engineer
-- 🌱 I’m currently learning SEO, Advanced Angular, Hibrid Apps.
+- 🌱 I’m currently learning Advanced React, Hibrid Apps.
 - 😄 Pronouns: He / Him
 
 ### Languajes
