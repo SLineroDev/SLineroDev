@@ -3,7 +3,7 @@
 My name is Sergio, Software developer and Tech passionate
 
 - 🔭 I’m currently working as a Software Development Engineer
-- 🌱 I’m currently learning Advanced React, Hibrid Apps.
+- 🌱 I’m currently learning Advanced Angular, Advanced .NET Core.
 - 😄 Pronouns: He / Him
 
 ### Languajes
@@ -15,7 +15,6 @@ My name is Sergio, Software developer and Tech passionate
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" />
 </p>
 
 ### Fameworks
@@ -26,7 +25,5 @@ My name is Sergio, Software developer and Tech passionate
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/ionic.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" />
 </p>
    
