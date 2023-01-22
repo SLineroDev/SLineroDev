@@ -3,7 +3,7 @@
 My name is Sergio, Software developer and Tech passionate
 
 - 🔭 I’m currently working as a Software Development Engineer
-- 🌱 I’m currently learning Advanced Angular, Advanced .NET Core.
+- 🌱 I’m currently learning Astro, Svelte, Advanced Angular, Advanced .NET Core.
 - 😄 Pronouns: He / Him
 
 ### Languajes
